@@ -1,0 +1,151 @@
+1566271279
+a:2:{s:7:"content";s:7635:"<pre><code>&lt;div class="_wrap"&gt;
+
+    &lt;!-- hero --&gt;
+    &lt;div class="hero clearfix bk_seaweed_green"&gt;
+
+        &lt;!-- navbar --&gt;
+        &lt;nav class="navbar"&gt;
+            &lt;div class="container clearfix"&gt;
+                &lt;div class="column col_3"&gt;
+                    &lt;a href="" class="top_logo"&gt;
+                        &lt;img src="assets/logo.svg" class="Schoolable_logo"&gt;
+                    &lt;/a&gt;
+                &lt;/div&gt;
+
+                &lt;div class="main_navbar column col_5"&gt;
+                    &lt;a class="" href=""&gt;Parents&lt;/a&gt;
+                    &lt;a class="" href=""&gt;School&lt;/a&gt;
+                    &lt;a class="" href=""&gt;About&lt;/a&gt;
+                    &lt;a class="" href=""&gt;Company&lt;/a&gt;
+                &lt;/div&gt;
+
+                &lt;div class="column col_4 align_right nav_btn"&gt;
+                    &lt;a class="btn ghost_btn" href="#"&gt;Log in&lt;/a&gt;
+                    &lt;a class="btn" href="#"&gt;Get Started&lt;/a&gt;
+                &lt;/div&gt;
+            &lt;/div&gt;
+        &lt;/nav&gt;
+
+        &lt;!-- hero contain --&gt;
+        &lt;div class="container"&gt;
+
+            &lt;div class="clearfix"&gt;
+                &lt;div class="column col_5 hero_text"&gt;
+                    &lt;h1 class="mb"&gt;The future is bright but it starts today&lt;/h1&gt;
+                    &lt;p class="mb3 normal_font"&gt;But I must explain to you how all this mistaken idea of denouncing pleasure and praising pain was born and I will give you a complete account of the system, and expound.&lt;/p&gt;
+
+                    &lt;div class="start1"&gt;
+                        &lt;a class="btn big_btn" href="#"&gt;Get started&lt;/a&gt;
+                    &lt;/div&gt;
+                &lt;/div&gt;
+
+                &lt;div class="column col_7 hero_image clearfix"&gt;
+                    &lt;div class="hero_image_hold relative_position right"&gt;
+                        &lt;div class="rect_1"&gt;&lt;/div&gt;
+                        &lt;div class="rect_2"&gt;&lt;/div&gt;
+                        &lt;div class="bubbles_1"&gt;&lt;/div&gt;
+
+                        &lt;div class="hero_image_main"&gt;&lt;/div&gt;
+                    &lt;/div&gt;
+                &lt;/div&gt;
+            &lt;/div&gt;
+
+        &lt;/div&gt;
+    &lt;/div&gt;
+
+    &lt;!-- first section --&gt;
+    &lt;section class=" relative_position"&gt;
+        &lt;div class="container"&gt;
+
+            &lt;div class="align_center"&gt;
+                &lt;h1 class="margin_center col_6 mb"&gt;Your tuition planning toolkit&lt;/h1&gt;
+                &lt;p class="margin_center col_7 mb4 normal_font"&gt;But I must explain to you how all this mistaken idea of denouncing pleasure and praising pain was born and I will give you a complete account of the system, and expound.&lt;/p&gt;
+            &lt;/div&gt;
+
+            &lt;div class="relative_position mb4 pt4"&gt;
+                &lt;div class="clearfix"&gt;
+
+                    &lt;div class="col_6 column"&gt;
+                        &lt;div class="mb4 col_11"&gt;
+                            &lt;h3 class="mb"&gt;Can my child attend the best secondary school?&lt;/h3&gt;
+                            &lt;p class="m-b normal_font col_11"&gt; But I must explain to you how all this mistaken idea of denouncing pleasure and praising pain was born and I will give you a complete account of the system, and expound.&lt;/p&gt;
+
+                            &lt;a href="" class="normal_font weight_medium"&gt;Try the tool &lt;ion-icon name="md-arrow-forward"&gt;&lt;/ion-icon&gt;&lt;/a&gt;
+                        &lt;/div&gt;
+
+                        &lt;div class="col_11"&gt;
+                            &lt;h3 class="mb"&gt;Will I meet the next tuition cycle for my child’s target school?&lt;/h3&gt;
+                            &lt;p class="m-b normal_font col_11"&gt; But I must explain to you how all this mistaken idea of denouncing pleasure and praising pain was born and I will give you a complete account of the system, and expound.&lt;/p&gt;
+
+                            &lt;a href="" class="normal_font weight_medium"&gt;Try the tool &lt;ion-icon name="md-arrow-forward"&gt;&lt;/ion-icon&gt;&lt;/a&gt;
+                        &lt;/div&gt;
+                    &lt;/div&gt;
+
+                    &lt;div class="col_6 column toolkit_image"&gt;&lt;/div&gt;
+                &lt;/div&gt;
+            &lt;/div&gt;
+        &lt;/div&gt;
+    &lt;/section&gt;
+
+    &lt;!-- footer --&gt;
+    &lt;footer&gt;
+
+        &lt;div class="container fifty_padd"&gt;
+            &lt;div class="why_schoolable align_center"&gt;
+                &lt;h3 class="color_white m-b"&gt;Why Schoolable?&lt;/h3&gt;
+                &lt;p class="mb margin_center col_5 color_white"&gt;The real question should be “Why not Schoolable?”. Lets help you secure your child’s educations&lt;/p&gt;
+
+                &lt;div class="align_center"&gt;
+                    &lt;a class="btn green_btn" href="#"&gt;Get Started&lt;/a&gt;
+                &lt;/div&gt;
+            &lt;/div&gt;
+        &lt;/div&gt;
+
+        &lt;div class="container"&gt;
+            &lt;div class="clearfix footer_wrap mb3"&gt;
+
+                &lt;div class="col_3 column"&gt;
+                    &lt;div class="footer_logo mb"&gt;
+                        &lt;img src="assets/logo.svg" &gt;
+                    &lt;/div&gt;
+
+                    &lt;div class="clearfix social_media"&gt;
+                        &lt;a href=""&gt;&lt;/a&gt;
+                        &lt;a href=""&gt;&lt;/a&gt;
+                        &lt;a href=""&gt;&lt;/a&gt;
+                        &lt;a href=""&gt;&lt;/a&gt;
+                    &lt;/div&gt;
+                &lt;/div&gt;
+
+                &lt;div class="footer_links column col_2 mb"&gt;
+                    &lt;h5&gt;Company&lt;/h5&gt;
+                    &lt;a href="about.html" &gt;About us&lt;/a&gt;
+                    &lt;a href="careers.html"&gt;Careers&lt;/a&gt;
+                    &lt;a href="testimonial.html" &gt;Testimonials&lt;/a&gt;
+                    &lt;a href="faq.html"&gt;FAQ&lt;/a&gt;
+                &lt;/div&gt;
+
+                &lt;div class="footer_links column col_2"&gt;
+                    &lt;h5&gt;Product&lt;/h5&gt;
+                    &lt;a href="about.html" &gt;Parents&lt;/a&gt;
+                    &lt;a href="careers.html"&gt;Schools&lt;/a&gt;
+                &lt;/div&gt;
+
+                &lt;div class="footer_links column col_2"&gt;
+                    &lt;h5&gt;Legal&lt;/h5&gt;
+                    &lt;a href="about.html" &gt;Privacy Policy&lt;/a&gt;
+                    &lt;a href="careers.html"&gt;Terms of Service&lt;/a&gt;
+                &lt;/div&gt;
+
+                &lt;div class="col_3 column footer_links"&gt;
+                    &lt;h5&gt;Office&lt;/h5&gt;
+                    &lt;p class="mb"&gt;Road 28, Victoria Garden City, Lagos&lt;/p&gt;
+                    &lt;p class="Road-28"&gt;4344 Fruitvale Avenue, Oakland, Califonia, USA.&lt;/p&gt;
+                &lt;/div&gt;
+            &lt;/div&gt;
+
+            &lt;p class="small_font mb4"&gt;But I must explain to you how all this mistaken idea of denouncing pleasure and praising pain was born and I will give you a complete account of the system, and expound the actual teachings of the great explorer of the truth, the master-builder of human happiness. No one rejects, dislikes, or avoids pleasure itself, because it is pleasure, but because those who do not know how to pursue pleasure rationally encounter consequences that are.&lt;/p&gt;
+        &lt;/div&gt;
+    &lt;/footer&gt;
+&lt;/div&gt;</code></pre>";s:12:"content_meta";N;}
